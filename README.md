@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=Josie1902&project=Simple-Columns&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 👋 Overview
 ![Simple Columns](https://drive.google.com/uc?export=view&id=1Q4Vrx3FpE14U_6RtGkmfQg9UnsNJKx-j)
 
